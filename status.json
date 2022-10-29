@@ -1,0 +1,12 @@
+{
+   "status":true,
+   "status_check_google":true,
+   "start_day_check":"21",
+   "end_day_check":"31",
+   "check_installation":true,
+   "day_of_installation":3,
+   "link_wa":"https://api.whatsapp.com/send/?phone=855718239694&text&type=phone_number&app_absent=0",
+   "master_url":"https://bit.ly/3SNJhyQ",
+   "second_url":"https://davondydeveloper.github.io/slouzpragma/",
+   "demo_url":"https://davondydeveloper.github.io/slouzpragma/demo.html"
+}
